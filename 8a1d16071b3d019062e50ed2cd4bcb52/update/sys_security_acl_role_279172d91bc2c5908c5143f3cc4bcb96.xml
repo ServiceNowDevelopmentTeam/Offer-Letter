@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2022-03-04 15:57:28</sys_created_on>
+        <sys_id>279172d91bc2c5908c5143f3cc4bcb96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sc_task.job_posting</sys_name>
+        <sys_package display_value="Offer Letter" source="8a1d16071b3d019062e50ed2cd4bcb52">8a1d16071b3d019062e50ed2cd4bcb52</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Offer Letter">8a1d16071b3d019062e50ed2cd4bcb52</sys_scope>
+        <sys_security_acl display_value="sc_task">bedf560f1b3d019062e50ed2cd4bcbcf</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_279172d91bc2c5908c5143f3cc4bcb96</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2022-03-04 15:57:28</sys_updated_on>
+        <sys_user_role display_value="job_posting" name="job_posting">252f5e8b1b3d019062e50ed2cd4bcb7c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
